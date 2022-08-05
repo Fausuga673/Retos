@@ -1,0 +1,11 @@
+Repeticiones de la letra R: 1
+Repeticiones de la letra U: 1
+Repeticiones de la letra E: 1
+Repeticiones de la letra B: 1
+Repeticiones de la letra A: 1
+Repeticiones de la letra P: 2
+Repeticiones de la letra Y: 1
+Repeticiones de la letra T: 1
+Repeticiones de la letra H: 1
+Repeticiones de la letra O: 1
+Repeticiones de la letra N: 1
